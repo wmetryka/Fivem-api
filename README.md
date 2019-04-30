@@ -31,7 +31,7 @@ players: [{
         "identifiers": array, // Identifiers of the player
         "name": string, // Username's player
         "ping": int, // Le ping
-    }],
+}],
 info: {
     "enhancedHostSupport": boolean,
     "icon": string, // Icon of the server (Base64)
@@ -46,10 +46,8 @@ info: {
         "sv_hostname": string,
     },
     "version": int, // FXServer's version (numeric format)
-}
+},
 name: string // Name of the server
-
-
 ```
 
 This API is loosely based on the [node.js Fivem API](https://github.com/Heavenston/FiveM-Api/).
