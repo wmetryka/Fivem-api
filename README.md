@@ -19,7 +19,7 @@ print(server.players)
 Display the number of players online on a server
 
 ```python
-fivem.getServer(ipServer:port) # default port is 30120
+fivem.getServer("ip-address:port") # default port is 30120
 ```
 Returns a Server Class with those attributes:
 ```
