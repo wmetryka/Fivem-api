@@ -12,18 +12,16 @@ pip install fivem
 Here is an example to display the number of players online on a server.
 
 ```python
-import fivem;
+import fivem
 
 server = fivem.getServer("88.214.59.183:30120")
 print(server.players)
 ```
 
 ```python
-fivem.getServer(ipServer:port)
+fivem.getServer(ipServer:port) # default port is 30120
 ```
-(default port is 30120)
-
-It returns a Server Class with those attributes:
+Returns a Server Class with those attributes:
 ```
 players: [{
         "endpoint"; string,
