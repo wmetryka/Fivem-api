@@ -8,9 +8,9 @@ setuptools.setup(
 
      name='fivem',  
 
-     version='0.1',
+     version='1.0',
 
-     scripts=['fivem'] ,
+     scripts=['fivem.py'] ,
 
      author="Wiktor Metryka",
 
@@ -20,11 +20,11 @@ setuptools.setup(
 
      long_description=long_description,
 
-   long_description_content_type="text/markdown",
+     long_description_content_type="text/markdown",
 
      url="https://github.com/javatechy/fivem_api",
 
-     packages=['requests'],
+     install_requires=['requests'],
 
      classifiers=[
 
