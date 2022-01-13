@@ -1,6 +1,6 @@
 # FiveM-Api
 
-Small package in order to interact with FiveM API
+Small API Wrapper for interacting with the FiveM API
 
 **How-to install :**
 
