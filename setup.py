@@ -22,7 +22,7 @@ setuptools.setup(
 
      long_description_content_type="text/markdown",
 
-     url="https://github.com/javatechy/fivem_api",
+     url="https://github.com/Jestemkioskiem/Fivem-api/",
 
      install_requires=['requests'],
 
