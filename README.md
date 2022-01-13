@@ -9,7 +9,8 @@ pip install fivem
 ```
 
 **How-to use :** 
-Here is an example to display the number of players online on a server.
+
+Display the number of players online on a server:
 
 ```python
 import fivem
