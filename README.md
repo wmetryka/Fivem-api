@@ -1,5 +1,7 @@
 # FiveM-Api
 
+[![Downloads](https://pepy.tech/badge/fivem)](https://pepy.tech/project/fivem)
+
 Small API Wrapper for interacting with the FiveM API
 
 **How-to install :**
